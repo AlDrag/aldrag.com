@@ -1,0 +1,15 @@
+baseURL = 'https://aldrag.com'
+locale = 'en-NZ'
+title = 'Alan Dragicevich'
+theme = 'blazingly-simple'
+
+[menus]
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
